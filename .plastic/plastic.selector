@@ -1,0 +1,4 @@
+repository "TestProject1@barywp@cloud"
+  path "/"
+    smartbranch "/main" changeset "7"    
+     
